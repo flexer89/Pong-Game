@@ -8,4 +8,4 @@ Every game paddles have different colors, which are connected to player.
 ![](https://i.imgur.com/OC69YJe.png)
 ### Game
 ![](https://i.imgur.com/bm0OmAB.png)
-![](https://i.imgur.com/YkOTyJb.png)
+![](https://i.imgur.com/56s3H6C.png)
